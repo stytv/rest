@@ -1,4 +1,4 @@
-import { PizzaSlice } from 'lucide-react'
+import { Pizza as PizzaSlice } from 'lucide-react'
 
 export default function Home() {
   return (
