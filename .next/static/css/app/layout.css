@@ -882,21 +882,26 @@ video {
     transform: translate3d(var(--tw-exit-translate-x, 0), var(--tw-exit-translate-y, 0), 0) scale3d(var(--tw-exit-scale, 1), var(--tw-exit-scale, 1), var(--tw-exit-scale, 1)) rotate(var(--tw-exit-rotate, 0));
   }
 }
+
 .hover\:bg-gold-dark:hover {
   background-color: hsl(var(--gold-dark));
 }
+
 .hover\:bg-wine-light:hover {
   background-color: hsl(var(--wine-light));
 }
+
 .hover\:text-gold:hover {
   color: hsl(var(--gold));
 }
+
 @media (min-width: 640px) {
 
   .sm\:flex-row {
     flex-direction: row;
   }
 }
+
 @media (min-width: 768px) {
 
   .md\:flex {
